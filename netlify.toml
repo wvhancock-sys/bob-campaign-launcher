@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/bob-campaign.html"
+  status = 200
